@@ -16,5 +16,6 @@ for (let i = 99; i >= 0; i--) {
 }
   
 }
+//call/execute the function
 beerSong();
 
