@@ -13,3 +13,10 @@
 ### 98 bottles of beer on the wall, 98 bottles of beer. "Take one down and pass it around, 97 bottles of beer on the wall.
 ### 97 bottles of beer on the wall, 97 bottles of beer. "Take one down and pass it around, 96 bottles of beer on the wall.
 ### ...
+
+## What I learned:
+### During the process I learned that if I do a stellar job at pseudo coding, the code almost writes itself.
+
+## What I'm most proud of:
+
+### I'm proud of my ability to think through a problem and find a solution that works.
